@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **winsoft666/winsoft666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 I'm a coder, also a problem solver.
+<h2>Hi 👋 I'm a coder, also a problem solver.</h2>
 
 <img src="https://github.com/winsoft666/winsoft666/blob/main/hacker_a.gif?raw=true.gif" width="40%">
