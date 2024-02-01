@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hi 👋 I'm a coder, also a problem solver.
+
+<img src="https://github.com/winsoft666/winsoft666/blob/main/hacker_a.gif?raw=true.gif" width="40%">
