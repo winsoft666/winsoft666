@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi 👋 I'm a problem solver</h2>
+<h1>Hi 👋 I'm a problem solver</h1>
 
-I'm also a code cooker.
+<h2>I'm also a code cooker. <h2>
 
-If I can't find a open source library to satisfy my demand, I will cook one.
+<h2> If I can't find a open source library to satisfy my demand, I will cook one. <h2>
 
 <img src="https://github.com/winsoft666/winsoft666/blob/main/hacker_a.gif?raw=true.gif" width="40%">
