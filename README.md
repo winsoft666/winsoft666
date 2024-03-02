@@ -6,8 +6,9 @@
 
 <img src="https://github.com/winsoft666/winsoft666/blob/main/hacker_a.gif?raw=true.gif" width="40%">
 
-## Project
-These dished cooked by me.
+---
+
+These dishes were cooked by me.
 
 - [QCefWidget](https://github.com/winsoft666/QCefWidget)
     A Qt widget that can render and interact with webpage.
