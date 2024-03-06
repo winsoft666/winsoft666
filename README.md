@@ -14,6 +14,8 @@ These dishes were cooked by me.
     A Qt widget that can render and interact with webpage.
 - [zoe](https://github.com/winsoft666/zoe)  
     C++ File Download Library.
+- [veigar](https://github.com/winsoft666/veigar)  
+    Cross platform RPC library using shared memory.
 - [easyzip](https://github.com/winsoft666/easyzip)  
     C++ wrapper around zlib compression library.
 - [Qt-FramelessWindow](https://github.com/winsoft666/Qt-FramelessWindow)  
