@@ -1,6 +1,6 @@
-## Hi 👋 I'm a problem solver
+## Hi 👋 I'm a Problem Solver
 
-**I'm also a code cooker.** 
+**I'm also a Code Cooker.** 
 
 **If I can't find one to satisfy me, I will cook one.**
 
