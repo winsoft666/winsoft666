@@ -20,19 +20,7 @@ These dishes cooked by me.
     Duilib enhanced version.
 - [NSIS-UI-Plugin](https://github.com/winsoft666/NSIS-UI-Plugin)  
     Create NSIS Modern UI Setup by Using Thirdparty UI Library(such as Qt, DuiLib)
-- [vlc-qt2](https://github.com/winsoft666/vlc-qt2)  
-    A library to connect Qt application with libVLC.
 - [electron-vue3-boilerplate](https://github.com/winsoft666/electron-vue3-boilerplate)  
     A boilerplate for quickly create high quality app with Electron, Vue3, TypeScript and Vite.
-- [cef_binary](https://github.com/winsoft666/cef_binary)  
-    CEF precompiled files for windows.
-- [easyzip](https://github.com/winsoft666/easyzip)  
-    C++ wrapper around zlib compression library.
-- [CrashRptLite](https://github.com/winsoft666/CrashRptLite)  
-    A crash reporting system for Windows applications.
-- [qt-source-compile](https://github.com/winsoft666/qt-source-compile)  
-    Compile x86/x64 Qt 5/6 library.
-- [HFR](https://github.com/winsoft666/HFR)  
-    Human Face Recognition System.
-- [node-addon-sample](https://github.com/winsoft666/node-addon-sample)  
-    A node addon sample.
+- [vlc-qt2](https://github.com/winsoft666/vlc-qt2)  
+    A library to connect Qt application with libVLC.
