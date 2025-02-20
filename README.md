@@ -8,7 +8,7 @@
 
 使用微信扫描下面二维码，就可以对我进行打赏了。
 
-<img src="https://github.com/winsoft666/winsoft666/blob/main/WecharHonorCode.jpg" width="40%">
+<img src="https://github.com/winsoft666/winsoft666/blob/main/WecharHonorCode.jpg" width="32%">
 
 在打赏时，请备注所打赏的项目和您的非隐私信息，我会将这些信息添加到项目的打赏名单中。
 
