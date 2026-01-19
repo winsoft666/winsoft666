@@ -37,11 +37,3 @@
 - **[QSS Editor](https://github.com/winsoft666/qss-editor)**  
   A cross-platform tool to edit and preview Qt style sheets. **[Maintained]**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winsoft666&show_icons=true&theme=minimal" alt="winsoft666's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winsoft666&layout=compact&theme=minimal" alt="Top Langs" />
-</div>
