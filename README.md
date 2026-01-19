@@ -22,6 +22,9 @@
 - **[QtToolkit](https://github.com/winsoft666/QtToolkit)**  
   Qt toolkit that including custom widgets and basic functions.
 
+- **[NIM_Duilib_Framework](https://github.com/winsoft666/NIM_Duilib_Framework)**  
+  NIM Duilib. **[Maintained]**
+
 - **[AheadLib](https://github.com/winsoft666/AheadLib)**  
   Hijack dll source code generator. Support x86/x64. **[Maintained]**
 
