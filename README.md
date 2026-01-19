@@ -1,7 +1,7 @@
 
 ## 🚀 Featured Projects
 
-- **[QCefView](https://github.com/winsoft666/QCefView)**  
+- **[QWebView](https://github.com/winsoft666/QWebView)**  
   A Qt widget that renders and interacts with web content, supporting both CEF and Microsoft WebView2.
   
 - **[Zoe](https://github.com/winsoft666/zoe)**  
